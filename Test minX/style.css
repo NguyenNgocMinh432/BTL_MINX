@@ -1,0 +1,21 @@
+.top{
+    background-color: red;
+    width: 30%;
+    margin: auto;
+
+}
+.content{
+    background-color: rgb(200, 224, 238);
+    width: 30%;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+input{
+    width: 30%;
+    height: 25px;
+}
+#nut{
+    height: 32px;
+}
